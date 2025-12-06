@@ -1,7 +1,8 @@
---- 2025-12-02_04-00-01 ---
-root 0.619728GB
-kbae2 0.0660133GB
-polkitd 0.023098GB
+--- 2025-12-06_08-00-01 ---
+iansari2 5.22639GB
+root 0.652382GB
+kbae2 0.0594368GB
+polkitd 0.0237694GB
 colord 0.0125275GB
 avahi 0.00805664GB
 dbus 0.00671387GB
