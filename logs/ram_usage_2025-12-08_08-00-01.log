@@ -1,9 +1,8 @@
---- 2025-12-04_04-00-02 ---
-asaito2 7.80594GB
-iansari2 4.56989GB
-root 0.644489GB
-kbae2 0.0360336GB
-polkitd 0.023098GB
+--- 2025-12-08_08-00-01 ---
+iansari2 5.26265GB
+root 0.632294GB
+kbae2 0.0370522GB
+polkitd 0.0237694GB
 colord 0.0125275GB
 avahi 0.00805664GB
 dbus 0.00671387GB
