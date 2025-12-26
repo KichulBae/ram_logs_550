@@ -1,8 +1,8 @@
---- 2025-12-21_21-00-01 ---
-root 0.61388GB
-kbae2 0.0753593GB
+--- 2025-12-26_01-00-01 ---
+root 0.63237GB
+kbae2 0.0777016GB
 polkitd 0.0254364GB
-colord 0.0115471GB
+colord 0.0115547GB
 avahi 0.00949478GB
 dbus 0.00911713GB
 chrony 0.0045929GB
