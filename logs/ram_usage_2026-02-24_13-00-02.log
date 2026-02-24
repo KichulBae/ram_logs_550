@@ -1,9 +1,9 @@
---- 2026-02-20_09-00-08 ---
-iansari2 7.84715GB
-root 0.788876GB
-kbae2 0.0443382GB
+--- 2026-02-24_13-00-02 ---
+iansari2 8.81404GB
+root 0.815102GB
+kbae2 0.0435638GB
 polkitd 0.0262604GB
-colord 0.011528GB
+colord 0.0115318GB
 dbus 0.0110626GB
 avahi 0.00946808GB
 chrony 0.00458527GB
