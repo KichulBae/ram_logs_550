@@ -1,13 +1,13 @@
---- 2026-08-08_17-00-03 ---
-iansari2 29.2251GB
-asaito2 5.36131GB
-root 0.81012GB
-kbae2 0.0438728GB
+--- 2026-08-12_21-00-01 ---
+iansari2 50.2148GB
+asaito2 5.15726GB
+root 0.740131GB
+kbae2 0.0445328GB
 polkitd 0.0256691GB
 dbus 0.0111542GB
 colord 0.00933075GB
 avahi 0.00916672GB
-chrony 0.00429916GB
+chrony 0.0043869GB
 rtkit 0.00350189GB
 libstor+ 0.00188828GB
 
