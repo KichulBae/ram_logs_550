@@ -1,9 +1,9 @@
---- 2026-11-12_11-00-02 ---
-iansari2 4.14256GB
-asaito2 2.3097GB
-root 0.471443GB
-gdm 0.269791GB
-kbae2 0.0428886GB
+--- 2026-11-16_15-00-01 ---
+iansari2 4.20869GB
+root 0.502934GB
+asaito2 0.411072GB
+gdm 0.269997GB
+kbae2 0.0780487GB
 polkitd 0.0181236GB
 dbus 0.00785828GB
 colord 0.00397491GB
